@@ -1,5 +1,8 @@
 _repo: Uncle-Tom-s-Cabin_203
-_version: 0.1.1
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stowe, Harriet Beecher
@@ -38,6 +41,8 @@ description: "Uncle Tom's Cabin; or, Life Among the Lowly, is an anti-slavery no
   \ servant faithful to his white master or mistress. In recent years, the negative\
   \ associations with Uncle Tom's Cabin have, to an extent, overshadowed the historical\
   \ impact of the book as a \"vital antislavery tool.\"\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/203#Uncle-Tom-s-Cabin
 gutenberg_bookshelf:
 - Banned Books from Anne Haight's list
 - Slavery
